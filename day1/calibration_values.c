@@ -52,7 +52,7 @@ int main(){
     }
 
     int total_sum = 0;
-
+    //Calculates total value.
     for(int i = 0; i< 1001; i++){
         total_sum += sum[i];
     }
